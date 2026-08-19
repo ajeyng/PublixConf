@@ -1,4 +1,4 @@
-**Advanced Topic Management with AI Builder Intelligence**
+#### Advanced Topic Management with AI Builder Intelligence
 
 In this lab module, you are going to understand how to create sophisticated conversation flows in Microsoft Copilot Studio using advanced topics and AI Builder for intelligent intent detection. You'll create a new "Copilot Extensibility Advisor" agent that implements dynamic topic routing based on user intent analysis. This lab demonstrates how to create intelligent agents that can automatically redirect conversations to appropriate specialized topics based on natural language understanding powered by AI Builder.
 
