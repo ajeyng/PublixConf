@@ -106,7 +106,7 @@ In this exercise, you will create a new agent in Microsoft Copilot Studio that w
 
 ### Step 1: Accessing Microsoft Copilot Studio
 
-Open the Edge browser and navigate to https://copilotstudio.microsoft.com and login with the following suggested Microsoft 365 work or school account:
+Open the Edge browser and navigate to https://copilotstudio.microsoft.com and login with your work or school account:
 
 If this is the very first time you run Copilot Studio you will need to select your country and to select the Get Started button.
 
@@ -196,8 +196,12 @@ Scroll down to the Suggested prompts section and select the Add suggested prompt
 
 ![Picture 51](Copilot-Extensibility-Advisor-Lab-Instructions-assets/image-09.png)
 
+Title:
 ```text
-Title: Get development guidance - Prompt: I want to build an agent, what are my options?
+Get development guidance
+```
+```text
+- Prompt: I want to build an agent, what are my options?
 Title: No-code approach - Prompt: I want to create agents without programming
 Title: Developer approach - Prompt: I am a developer looking for programmatic agent development
 Title: Compare approaches - Prompt: What is the difference between no-code and pro-code agent development?
