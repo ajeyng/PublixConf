@@ -201,10 +201,26 @@ Title:
 Get development guidance
 ```
 ```text
-- Prompt: I want to build an agent, what are my options?
-Title: No-code approach - Prompt: I want to create agents without programming
-Title: Developer approach - Prompt: I am a developer looking for programmatic agent development
-Title: Compare approaches - Prompt: What is the difference between no-code and pro-code agent development?
+ No-code approach
+```
+```text
+ Developer approach
+```
+```text
+Compare approaches
+```
+Prompt:
+```text
+I want to build an agent, what are my options?
+```
+```text
+I want to create agents without programming
+```
+```text
+I am a developer looking for programmatic agent development
+```
+```text
+What is the difference between no-code and pro-code agent development?
 ```
 
 ![The agent configuration page showing the "Suggested prompts" section filled in with the suggested information for the Copilot Extensibility Advisor.](Copilot-Extensibility-Advisor-Lab-Instructions-assets/image-10.png)
