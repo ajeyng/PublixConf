@@ -201,10 +201,10 @@ Title:
 Get development guidance
 ```
 ```text
- No-code approach
+No-code approach
 ```
 ```text
- Developer approach
+Developer approach
 ```
 ```text
 Compare approaches
